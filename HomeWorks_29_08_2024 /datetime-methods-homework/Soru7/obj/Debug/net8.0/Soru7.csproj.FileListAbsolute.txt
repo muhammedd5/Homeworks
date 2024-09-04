@@ -1,0 +1,14 @@
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru7/bin/Debug/net8.0/Soru7
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru7/bin/Debug/net8.0/Soru7.deps.json
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru7/bin/Debug/net8.0/Soru7.runtimeconfig.json
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru7/bin/Debug/net8.0/Soru7.dll
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru7/bin/Debug/net8.0/Soru7.pdb
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru7/obj/Debug/net8.0/Soru7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru7/obj/Debug/net8.0/Soru7.AssemblyInfoInputs.cache
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru7/obj/Debug/net8.0/Soru7.AssemblyInfo.cs
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru7/obj/Debug/net8.0/Soru7.csproj.CoreCompileInputs.cache
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru7/obj/Debug/net8.0/Soru7.dll
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru7/obj/Debug/net8.0/refint/Soru7.dll
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru7/obj/Debug/net8.0/Soru7.pdb
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru7/obj/Debug/net8.0/Soru7.genruntimeconfig.cache
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru7/obj/Debug/net8.0/ref/Soru7.dll

@@ -1,0 +1,4 @@
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru10/obj/Debug/net8.0/Soru10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru10/obj/Debug/net8.0/Soru10.AssemblyInfoInputs.cache
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru10/obj/Debug/net8.0/Soru10.AssemblyInfo.cs
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /datetime-methods-homework/Soru10/obj/Debug/net8.0/Soru10.csproj.CoreCompileInputs.cache

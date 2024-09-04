@@ -1,0 +1,14 @@
+/Users/muhammed/Desktop/GitHub/HomeWorks_29_08_2024 /if-else-homework2/Soru5/bin/Debug/net8.0/Soru5
+/Users/muhammed/Desktop/GitHub/HomeWorks_29_08_2024 /if-else-homework2/Soru5/bin/Debug/net8.0/Soru5.deps.json
+/Users/muhammed/Desktop/GitHub/HomeWorks_29_08_2024 /if-else-homework2/Soru5/bin/Debug/net8.0/Soru5.runtimeconfig.json
+/Users/muhammed/Desktop/GitHub/HomeWorks_29_08_2024 /if-else-homework2/Soru5/bin/Debug/net8.0/Soru5.dll
+/Users/muhammed/Desktop/GitHub/HomeWorks_29_08_2024 /if-else-homework2/Soru5/bin/Debug/net8.0/Soru5.pdb
+/Users/muhammed/Desktop/GitHub/HomeWorks_29_08_2024 /if-else-homework2/Soru5/obj/Debug/net8.0/Soru5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammed/Desktop/GitHub/HomeWorks_29_08_2024 /if-else-homework2/Soru5/obj/Debug/net8.0/Soru5.AssemblyInfoInputs.cache
+/Users/muhammed/Desktop/GitHub/HomeWorks_29_08_2024 /if-else-homework2/Soru5/obj/Debug/net8.0/Soru5.AssemblyInfo.cs
+/Users/muhammed/Desktop/GitHub/HomeWorks_29_08_2024 /if-else-homework2/Soru5/obj/Debug/net8.0/Soru5.csproj.CoreCompileInputs.cache
+/Users/muhammed/Desktop/GitHub/HomeWorks_29_08_2024 /if-else-homework2/Soru5/obj/Debug/net8.0/Soru5.dll
+/Users/muhammed/Desktop/GitHub/HomeWorks_29_08_2024 /if-else-homework2/Soru5/obj/Debug/net8.0/refint/Soru5.dll
+/Users/muhammed/Desktop/GitHub/HomeWorks_29_08_2024 /if-else-homework2/Soru5/obj/Debug/net8.0/Soru5.pdb
+/Users/muhammed/Desktop/GitHub/HomeWorks_29_08_2024 /if-else-homework2/Soru5/obj/Debug/net8.0/Soru5.genruntimeconfig.cache
+/Users/muhammed/Desktop/GitHub/HomeWorks_29_08_2024 /if-else-homework2/Soru5/obj/Debug/net8.0/ref/Soru5.dll

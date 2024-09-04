@@ -1,0 +1,14 @@
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /number-methods-homework/Soru1/bin/Debug/net8.0/Soru1
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /number-methods-homework/Soru1/bin/Debug/net8.0/Soru1.deps.json
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /number-methods-homework/Soru1/bin/Debug/net8.0/Soru1.runtimeconfig.json
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /number-methods-homework/Soru1/bin/Debug/net8.0/Soru1.dll
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /number-methods-homework/Soru1/bin/Debug/net8.0/Soru1.pdb
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /number-methods-homework/Soru1/obj/Debug/net8.0/Soru1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /number-methods-homework/Soru1/obj/Debug/net8.0/Soru1.AssemblyInfoInputs.cache
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /number-methods-homework/Soru1/obj/Debug/net8.0/Soru1.AssemblyInfo.cs
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /number-methods-homework/Soru1/obj/Debug/net8.0/Soru1.csproj.CoreCompileInputs.cache
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /number-methods-homework/Soru1/obj/Debug/net8.0/Soru1.dll
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /number-methods-homework/Soru1/obj/Debug/net8.0/refint/Soru1.dll
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /number-methods-homework/Soru1/obj/Debug/net8.0/Soru1.pdb
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /number-methods-homework/Soru1/obj/Debug/net8.0/Soru1.genruntimeconfig.cache
+/Users/muhammed/Documents/GitHub/HomeWorks_29_08_2024 /number-methods-homework/Soru1/obj/Debug/net8.0/ref/Soru1.dll
