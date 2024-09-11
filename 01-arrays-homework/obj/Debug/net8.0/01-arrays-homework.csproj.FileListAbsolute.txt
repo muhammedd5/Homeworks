@@ -1,0 +1,15 @@
+/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/bin/Debug/net8.0/01-arrays-homework
+/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/bin/Debug/net8.0/01-arrays-homework.deps.json
+/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/bin/Debug/net8.0/01-arrays-homework.runtimeconfig.json
+/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/bin/Debug/net8.0/01-arrays-homework.dll
+/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/bin/Debug/net8.0/01-arrays-homework.pdb
+/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/obj/Debug/net8.0/01-arrays-homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/obj/Debug/net8.0/01-arrays-homework.AssemblyInfoInputs.cache
+/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/obj/Debug/net8.0/01-arrays-homework.AssemblyInfo.cs
+/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/obj/Debug/net8.0/01-arrays-homework.csproj.CoreCompileInputs.cache
+/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/obj/Debug/net8.0/01-arrays-homework.sourcelink.json
+/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/obj/Debug/net8.0/01-arrays-homework.dll
+/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/obj/Debug/net8.0/refint/01-arrays-homework.dll
+/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/obj/Debug/net8.0/01-arrays-homework.pdb
+/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/obj/Debug/net8.0/01-arrays-homework.genruntimeconfig.cache
+/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/obj/Debug/net8.0/ref/01-arrays-homework.dll

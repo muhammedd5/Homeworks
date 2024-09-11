@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/muhammed/Desktop/GitHub/Homeworks/HomeWorks_29_08_2024 /04-if-else-homework/Soru10/Soru10.csproj": {}
+    "/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/01-arrays-homework.csproj": {}
   },
   "projects": {
-    "/Users/muhammed/Desktop/GitHub/Homeworks/HomeWorks_29_08_2024 /04-if-else-homework/Soru10/Soru10.csproj": {
+    "/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/01-arrays-homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/muhammed/Desktop/GitHub/Homeworks/HomeWorks_29_08_2024 /04-if-else-homework/Soru10/Soru10.csproj",
-        "projectName": "Soru10",
-        "projectPath": "/Users/muhammed/Desktop/GitHub/Homeworks/HomeWorks_29_08_2024 /04-if-else-homework/Soru10/Soru10.csproj",
+        "projectUniqueName": "/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/01-arrays-homework.csproj",
+        "projectName": "01-arrays-homework",
+        "projectPath": "/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/01-arrays-homework.csproj",
         "packagesPath": "/Users/muhammed/.nuget/packages/",
-        "outputPath": "/Users/muhammed/Desktop/GitHub/Homeworks/HomeWorks_29_08_2024 /04-if-else-homework/Soru10/obj/",
+        "outputPath": "/Users/muhammed/Documents/GitHub/Homeworks/01-arrays-homework/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/muhammed/.nuget/NuGet/NuGet.Config"
