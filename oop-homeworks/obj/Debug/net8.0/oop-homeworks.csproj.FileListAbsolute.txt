@@ -1,0 +1,15 @@
+/Users/muhammed/Documents/GitHub/Homeworks/oop-homeworks/bin/Debug/net8.0/oop-homeworks
+/Users/muhammed/Documents/GitHub/Homeworks/oop-homeworks/bin/Debug/net8.0/oop-homeworks.deps.json
+/Users/muhammed/Documents/GitHub/Homeworks/oop-homeworks/bin/Debug/net8.0/oop-homeworks.runtimeconfig.json
+/Users/muhammed/Documents/GitHub/Homeworks/oop-homeworks/bin/Debug/net8.0/oop-homeworks.dll
+/Users/muhammed/Documents/GitHub/Homeworks/oop-homeworks/bin/Debug/net8.0/oop-homeworks.pdb
+/Users/muhammed/Documents/GitHub/Homeworks/oop-homeworks/obj/Debug/net8.0/oop-homeworks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammed/Documents/GitHub/Homeworks/oop-homeworks/obj/Debug/net8.0/oop-homeworks.AssemblyInfoInputs.cache
+/Users/muhammed/Documents/GitHub/Homeworks/oop-homeworks/obj/Debug/net8.0/oop-homeworks.AssemblyInfo.cs
+/Users/muhammed/Documents/GitHub/Homeworks/oop-homeworks/obj/Debug/net8.0/oop-homeworks.csproj.CoreCompileInputs.cache
+/Users/muhammed/Documents/GitHub/Homeworks/oop-homeworks/obj/Debug/net8.0/oop-homeworks.sourcelink.json
+/Users/muhammed/Documents/GitHub/Homeworks/oop-homeworks/obj/Debug/net8.0/oop-homeworks.dll
+/Users/muhammed/Documents/GitHub/Homeworks/oop-homeworks/obj/Debug/net8.0/refint/oop-homeworks.dll
+/Users/muhammed/Documents/GitHub/Homeworks/oop-homeworks/obj/Debug/net8.0/oop-homeworks.pdb
+/Users/muhammed/Documents/GitHub/Homeworks/oop-homeworks/obj/Debug/net8.0/oop-homeworks.genruntimeconfig.cache
+/Users/muhammed/Documents/GitHub/Homeworks/oop-homeworks/obj/Debug/net8.0/ref/oop-homeworks.dll
