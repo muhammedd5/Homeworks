@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("oop-homeworks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b744f4fa65d95cd76f6aef6b7a0ab45479fb1018")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7b32d2e1d764effe93d0d4f338c910c5932ec43")]
 [assembly: System.Reflection.AssemblyProductAttribute("oop-homeworks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("oop-homeworks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
