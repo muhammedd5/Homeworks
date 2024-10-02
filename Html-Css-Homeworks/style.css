@@ -1,0 +1,243 @@
+1. CSS Seçicileri ve Kullanımı
+
+element: bir öğenin belirli bir bölümüne stil vermek için kullanılır. Önemli : pseudo-element kullanımında :: şeklinde iki tane iki nokta işareti ile kullanılması gerekir.
+
+.class: sınıf oluşturmak için kullanılır böyle yaparsak kodlar daha kolay ve hızlı yazılır.
+
+#id ise aynı class gibi numaralandırmaya yarar sadece iletişim bölümünü css tarafında şekillendirmek istiyorsak ona bir id veririz ve gerekli işlemi tamamlarız.
+
+element.class = Bir HTML öğesine CSS sınıfları eklemek veya çıkarmak için kullanılır.
+
+element.id = CSS'te bir öğenin ID'sini seçmek için # işareti kullanılırız. Örneğin, #myId ifadesi, id özelliği myId olan bir HTML öğesini hedefler. Bu, bir stil kuralı yazarken kullanılır.
+
+
+:hover: üstüne gelince yazı veya buton parlasın diye kullanırız. değiştirmek istediğimiz kodu soluna yazarız ve rengi uygulamak için rengini belirleyio uygularız.
+
+:focus: Klavye tarafından hedeflenen veya fare tarafından etkinleştirilen bir öğenin stilini belirlemek için kullanılır.
+
+
+:active: Aktif bağlantıyı seçer.
+
+2. Box Model ve Layout
+
+Margin: Dış boşluğu ayarlamak için kullanılır.
+
+Padding: İç boşluğu ayarlamak için kullanılır.
+
+Border: html nesnelerinin etrafına kenarlık eklemek için kullanılır.
+
+Content: Web tasarımcılarına metin ve görüntüleri HTML içeriğine eklemek için kullanılan bir yöntemdir.
+
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.box {
+    width: 200px;             
+    height: 100px;             
+    padding: 20px;              
+    border: 5px solid #3498db;  
+    margin: 30px;               
+    background-color: #ffffff;  
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); 
+    text-align: center;
+} */
+
+/* Block: Block öğeleri, tam genişlik kaplar ve yeni bir satırda başlar. Diğer öğelerin üstünde veya altında yer alır.
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Block</title>
+    <style>
+        .block {
+            display: block;
+            background-color: #3498db;
+            padding: 10px;
+            margin: 5px 0;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="block">Block Element 1</div>
+    <div class="block">Block Element 2</div>
+</body>
+</html> */
+
+Inline: Inline öğeleri, yalnızca içeriği kadar yer kaplar ve aynı satırda diğer inline öğelerle yan yana yer alır.
+
+Inline-block öğeleri, inline öğeler gibi yan yana yer alır, ancak genişlik ve yükseklik ayarlamaya olanak tanır. Kenar ve padding uygulamak mümkündür.
+
+/* <!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Inline-Block</title>
+    <style>
+        .inline-block {
+            display: inline-block;
+            background-color: #2ecc71;
+            padding: 10px;
+            margin: 5px;
+            color: white;
+            width: 100px;
+        }
+    </style>
+</head>
+<body>
+    <div class="inline-block">Inline-Block 1</div>
+    <div class="inline-block">Inline-Block 2</div>
+</body>
+</html> */
+
+none, öğeyi sayfadan tamamen kaldırır; yani, diğer öğelerin konumlarını etkilemez.
+
+/* <style>
+.none {
+    display: none; 
+}
+</style> */
+
+static: Varsayılan konumlandırma değeridir. Elemanlar, normal akışa göre yerleştirilir.
+
+Eğer bir öğenin sayfadaki standart yerleşimini korumak istiyorsak onu kullanırız.
+
+Relative: Bir öğenin normal belgelik akış içinde bulunduğu konumdan göreceli olarak kaydırılmasını sağlar. Bir öğeyi normal konumundan kaydırmak istiyorsak kullanmalıyız.
+
+color: metin rengi değiştirmeye yarar.
+
+background-color: arkaplan rengini değiştirmeye yarar.
+
+Hexadecimal: Onaltılık bir sayı sistemi kullanarak renkleri tanımlar. Renk, genellikle # sembolü ile başlar ve ardından altı haneli bir kod gelir.
+ 
+RGB: Tanım: RGB, renkleri kırmızı, yeşil ve mavi bileşenleri ile tanımlar. Bu sistem, her bileşenin 0 ile 255 arasında bir değer almasıyla çalışır.
+
+
+HSL: Rengi üç bileşenle tanımlar: ton (hue), doygunluk (saturation) ve aydınlık (lightness).
+
+Örnekler;
+
+Hex: #FF5733
+RGB: (255, 87, 51)
+HSL: (14, 100%, 60%)
+
+background-image: bir etiketin arka plan resmi eklememizi olanak sağlar.
+
+background-size: Arka plan resminin alanı nasıl kaplayacağını belirlemek için kullanılır.
+
+background-repeat : Arka plan resminin tekrarlı mı yoksa tekrarsız mı ekleneceğini belirlemek için kullanılır. 
+
+background-position : Arka plana eklenen resmin pozisyonunu belirtmek için.
+
+/* <style>
+body {
+    margin: 0;
+    height: 100vh;
+    background-image: url('https://via.placeholder.com/1920x1080');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+</style> */
+
+4. Yazı Tipleri ve Metin Stilleri
+
+font-family özelliği metnin yazı tipi ailesinin seçilmesini sağlar.
+
+font-size yazı tipinin boyutunu belirlemek için kullanılır. Ör: h1 { font-size: 250%; } 
+
+font-weight yazı tipinin kalınlığını belirtmek için kullanılır.
+
+font-style Yazı tipinini, italik, eğik(oblique) ve normal olarak ayarlamanızı sağlar. Ör: Helvetica, Georgia, Tahoma
+
+line-height varsayılan satır yüksekliğidir. Örneğin line-height: 2; ve font-size: 14px; ise 14 * 2 yani 24px olarak belirlenecektir.
+
+text-align: bir metnin yatay hizalamasını ayarlamak için kullanılır.
+
+text-transform: Büyük harfi küçük harfe, küçük harfi büyük harfe veya baş harfı büyük veya küçük harfe değiştirmesine yarar.
+
+text-decoration: metindeki biçimlendirmeleri ayarlamak veya kaldırmak için kullanılır.
+
+letter-spacing: Özelliği​​ Harfler arası mesafeyi ayarlamak için kullanılır. Negatif ya da ondalık sayılar değer olarak belirlenebilir.
+
+5. Kapsayıcı ve Kenarlık Özellikleri
+
+border: html nesnelerinin etrafına kenarlık eklemek için kullanılır.
+
+border-radius: HTML elemanlarına yuvarlak kenar özelliği verme işine yarıyor.
+
+border-width: çerçevelerin kenar kalınlıklarını belirtir. Ör: cm vb.
+
+border-style: HTML öğelerine verdiğimiz kenarlıklara stil vermek için kullanılır.
+
+border-color: Sınır çizgisinin rengini atamak için kullanılır.
+
+Margin: Kutunun dış kenar boşluğudur.
+
+Padding: Kutunun iç kenar boşluğudur.
+
+Border: Kutunun etrafındaki çizgidir. Kutunun sınırlarını belirler.
+
+/* <!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kutu Örneği</title>
+    <style>
+        .kutu {
+            margin: 20px;
+            padding: 15px; 
+            border: 2px solid #333;
+            background-color: #f0f0f0; 
+        }
+    </style>
+</head>
+<body>
+
+<div class="kutu">
+</div>
+
+</body>
+</html>
+
+ */
+
+ 6. Responsive Design (Duyarlı Tasarım)
+
+@media kuralı telefon, tablet, web sitesine uyumlu olması için kullanılır.
+
+body {
+    font-size: 16px;
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        font-size: 14px; 
+    }
+}
+
+
+vw : Değeri Viewport Width yani görüntü alanı genişiğidir. 100vw toplam görüntü alanı genişliğidir. ve 1000px genişliğe sahip bir tarayıcıda 1vw = 1000/100 = 10px olacaktır.
+
+vh : Değeri Viewport Height yani görüntü alanı yüksekliğidir. 100vh toplam görüntü alanı yüksekliğidir. ve 900px yüksekliğe sahip bir tarayıcıda 1vh = 900/100 = 9px olacaktır.
+
+vmin: Görüntü alanı yüksekliği (vh / viewport height) ve görüntü alanı genişliği (vw / viewport width) değerlerine bakar ve minimum olan değer üzerinden 1/100 olarak oranlanır.
+
+vmax: Tıpkı vmin gibi görüntü alanının yükseklik ve genişlik değerine bakar ancak bu defa max olan değer üzerinden değerlilik alır. Yani, yukarıdaki örnek üzerinden ilerleyecek olursak 1200x800px bir ekranda 1vmax karşılığı 12px olacaktır.
+
+
+
+
+
