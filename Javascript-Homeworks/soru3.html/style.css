@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border-radius: 300px;
+
+
+    
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: greenyellow;
+    color: #555;
+}
+
+.page-header {
+    text-align: center;
+    background-color: #555;
+    color: #fff;
+    padding: 30px;
+    background-color: goldenrod;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    color: green;
+}
+
+.about,
+.skills,
+.links,
+.profile-picture,
+.contact-form {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+}
+
+.skills{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.skills-container{
+    display: flex;
+}
+.skills-card{
+    margin-right: 20px;
+    background-color: #555;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.profile-picture img {
+
+    border-radius: 100px;
+    display: block;
+    margin: 0 auto;
+    padding: 1px 2px;
+
+}
+
+.contant-form input, .contact-form textarea{
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+    border: 1px solid #ccc
+    
+}
+.contant-form input, .contact-form textarea{
+    border-radius: 100px;
+
+}
+
