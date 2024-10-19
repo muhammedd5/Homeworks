@@ -1,0 +1,15 @@
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project01_First/bin/Debug/net8.0/Project01_First
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project01_First/bin/Debug/net8.0/Project01_First.deps.json
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project01_First/bin/Debug/net8.0/Project01_First.runtimeconfig.json
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project01_First/bin/Debug/net8.0/Project01_First.dll
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project01_First/bin/Debug/net8.0/Project01_First.pdb
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project01_First/obj/Debug/net8.0/Project01_First.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project01_First/obj/Debug/net8.0/Project01_First.AssemblyInfoInputs.cache
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project01_First/obj/Debug/net8.0/Project01_First.AssemblyInfo.cs
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project01_First/obj/Debug/net8.0/Project01_First.csproj.CoreCompileInputs.cache
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project01_First/obj/Debug/net8.0/Project01_First.sourcelink.json
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project01_First/obj/Debug/net8.0/Project01_First.dll
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project01_First/obj/Debug/net8.0/refint/Project01_First.dll
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project01_First/obj/Debug/net8.0/Project01_First.pdb
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project01_First/obj/Debug/net8.0/Project01_First.genruntimeconfig.cache
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project01_First/obj/Debug/net8.0/ref/Project01_First.dll

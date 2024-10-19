@@ -1,0 +1,15 @@
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project02_WithProgramMain/bin/Debug/net8.0/Project02_WithProgramMain
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project02_WithProgramMain/bin/Debug/net8.0/Project02_WithProgramMain.deps.json
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project02_WithProgramMain/bin/Debug/net8.0/Project02_WithProgramMain.runtimeconfig.json
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project02_WithProgramMain/bin/Debug/net8.0/Project02_WithProgramMain.dll
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project02_WithProgramMain/bin/Debug/net8.0/Project02_WithProgramMain.pdb
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project02_WithProgramMain/obj/Debug/net8.0/Project02_WithProgramMain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project02_WithProgramMain/obj/Debug/net8.0/Project02_WithProgramMain.AssemblyInfoInputs.cache
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project02_WithProgramMain/obj/Debug/net8.0/Project02_WithProgramMain.AssemblyInfo.cs
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project02_WithProgramMain/obj/Debug/net8.0/Project02_WithProgramMain.csproj.CoreCompileInputs.cache
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project02_WithProgramMain/obj/Debug/net8.0/Project02_WithProgramMain.sourcelink.json
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project02_WithProgramMain/obj/Debug/net8.0/Project02_WithProgramMain.dll
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project02_WithProgramMain/obj/Debug/net8.0/refint/Project02_WithProgramMain.dll
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project02_WithProgramMain/obj/Debug/net8.0/Project02_WithProgramMain.pdb
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project02_WithProgramMain/obj/Debug/net8.0/Project02_WithProgramMain.genruntimeconfig.cache
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/Project02_WithProgramMain/obj/Debug/net8.0/ref/Project02_WithProgramMain.dll

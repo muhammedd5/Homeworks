@@ -1,0 +1,15 @@
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/ETicaretUgulamasi/bin/Debug/net8.0/ETicaretUgulamasi
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/ETicaretUgulamasi/bin/Debug/net8.0/ETicaretUgulamasi.deps.json
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/ETicaretUgulamasi/bin/Debug/net8.0/ETicaretUgulamasi.runtimeconfig.json
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/ETicaretUgulamasi/bin/Debug/net8.0/ETicaretUgulamasi.dll
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/ETicaretUgulamasi/bin/Debug/net8.0/ETicaretUgulamasi.pdb
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/ETicaretUgulamasi/obj/Debug/net8.0/ETicaretUgulamasi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/ETicaretUgulamasi/obj/Debug/net8.0/ETicaretUgulamasi.AssemblyInfoInputs.cache
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/ETicaretUgulamasi/obj/Debug/net8.0/ETicaretUgulamasi.AssemblyInfo.cs
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/ETicaretUgulamasi/obj/Debug/net8.0/ETicaretUgulamasi.csproj.CoreCompileInputs.cache
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/ETicaretUgulamasi/obj/Debug/net8.0/ETicaretUgulamasi.sourcelink.json
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/ETicaretUgulamasi/obj/Debug/net8.0/ETicaretUgulamasi.dll
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/ETicaretUgulamasi/obj/Debug/net8.0/refint/ETicaretUgulamasi.dll
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/ETicaretUgulamasi/obj/Debug/net8.0/ETicaretUgulamasi.pdb
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/ETicaretUgulamasi/obj/Debug/net8.0/ETicaretUgulamasi.genruntimeconfig.cache
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/ETicaretUgulamasi/obj/Debug/net8.0/ref/ETicaretUgulamasi.dll

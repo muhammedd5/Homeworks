@@ -1,0 +1,15 @@
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/OgrenciYonetimSistemi/bin/Debug/net8.0/OgrenciYonetimSistemi
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/OgrenciYonetimSistemi/bin/Debug/net8.0/OgrenciYonetimSistemi.deps.json
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/OgrenciYonetimSistemi/bin/Debug/net8.0/OgrenciYonetimSistemi.runtimeconfig.json
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/OgrenciYonetimSistemi/bin/Debug/net8.0/OgrenciYonetimSistemi.dll
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/OgrenciYonetimSistemi/bin/Debug/net8.0/OgrenciYonetimSistemi.pdb
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/OgrenciYonetimSistemi/obj/Debug/net8.0/OgrenciYonetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/OgrenciYonetimSistemi/obj/Debug/net8.0/OgrenciYonetimSistemi.AssemblyInfoInputs.cache
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/OgrenciYonetimSistemi/obj/Debug/net8.0/OgrenciYonetimSistemi.AssemblyInfo.cs
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/OgrenciYonetimSistemi/obj/Debug/net8.0/OgrenciYonetimSistemi.csproj.CoreCompileInputs.cache
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/OgrenciYonetimSistemi/obj/Debug/net8.0/OgrenciYonetimSistemi.sourcelink.json
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/OgrenciYonetimSistemi/obj/Debug/net8.0/OgrenciYonetimSistemi.dll
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/OgrenciYonetimSistemi/obj/Debug/net8.0/refint/OgrenciYonetimSistemi.dll
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/OgrenciYonetimSistemi/obj/Debug/net8.0/OgrenciYonetimSistemi.pdb
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/OgrenciYonetimSistemi/obj/Debug/net8.0/OgrenciYonetimSistemi.genruntimeconfig.cache
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/OgrenciYonetimSistemi/obj/Debug/net8.0/ref/OgrenciYonetimSistemi.dll

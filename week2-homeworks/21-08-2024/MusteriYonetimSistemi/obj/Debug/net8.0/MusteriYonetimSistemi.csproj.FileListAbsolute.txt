@@ -1,0 +1,15 @@
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/MusteriYonetimSistemi/bin/Debug/net8.0/MusteriYonetimSistemi
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/MusteriYonetimSistemi/bin/Debug/net8.0/MusteriYonetimSistemi.deps.json
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/MusteriYonetimSistemi/bin/Debug/net8.0/MusteriYonetimSistemi.runtimeconfig.json
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/MusteriYonetimSistemi/bin/Debug/net8.0/MusteriYonetimSistemi.dll
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/MusteriYonetimSistemi/bin/Debug/net8.0/MusteriYonetimSistemi.pdb
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/MusteriYonetimSistemi/obj/Debug/net8.0/MusteriYonetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/MusteriYonetimSistemi/obj/Debug/net8.0/MusteriYonetimSistemi.AssemblyInfoInputs.cache
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/MusteriYonetimSistemi/obj/Debug/net8.0/MusteriYonetimSistemi.AssemblyInfo.cs
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/MusteriYonetimSistemi/obj/Debug/net8.0/MusteriYonetimSistemi.csproj.CoreCompileInputs.cache
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/MusteriYonetimSistemi/obj/Debug/net8.0/MusteriYonetimSistemi.sourcelink.json
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/MusteriYonetimSistemi/obj/Debug/net8.0/MusteriYonetimSistemi.dll
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/MusteriYonetimSistemi/obj/Debug/net8.0/refint/MusteriYonetimSistemi.dll
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/MusteriYonetimSistemi/obj/Debug/net8.0/MusteriYonetimSistemi.pdb
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/MusteriYonetimSistemi/obj/Debug/net8.0/MusteriYonetimSistemi.genruntimeconfig.cache
+/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/01-Bilgisayar Bilimi/Week2/21-08-2024/MusteriYonetimSistemi/obj/Debug/net8.0/ref/MusteriYonetimSistemi.dll
