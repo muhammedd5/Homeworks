@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Kategoriler";
+}
+
+<h1 class="text-center">Kategoriler</h1>
+<div class="text-center">
+    @foreach (var category in ViewBag.Categories)
+    {
+        <h3>@category</h3>
+    }
+</div>
+
+<a href="~/Image/moto1.jpg" target="_blank"> özgeçmiş</a>

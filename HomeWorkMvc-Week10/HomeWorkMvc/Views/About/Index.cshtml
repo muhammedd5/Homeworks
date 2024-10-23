@@ -1,0 +1,10 @@
+﻿
+@{
+}
+
+<div style="height: 750px; border: 1px solid #ccc;" id="my-pdf"></div>
+
+@section Scripts{
+   <script src="https://unpkg.com/pdfobject"></script>
+    <script>PDFObject.embed("/Image/fatura.pdf", "#my-pdf");</script>
+}

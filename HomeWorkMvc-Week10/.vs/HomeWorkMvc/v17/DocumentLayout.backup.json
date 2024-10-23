@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brk_y\\source\\repos\\HomeWorkMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3CF360-8E0E-48DD-979F-AB6D0DFA3898}|HomeWorkMvc\\BlogApp.csproj|c:\\users\\brk_y\\source\\repos\\homeworkmvc\\homeworkmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A3CF360-8E0E-48DD-979F-AB6D0DFA3898}|HomeWorkMvc\\BlogApp.csproj|solutionrelative:homeworkmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3CF360-8E0E-48DD-979F-AB6D0DFA3898}|HomeWorkMvc\\BlogApp.csproj|c:\\users\\brk_y\\source\\repos\\homeworkmvc\\homeworkmvc\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A3CF360-8E0E-48DD-979F-AB6D0DFA3898}|HomeWorkMvc\\BlogApp.csproj|solutionrelative:homeworkmvc\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3CF360-8E0E-48DD-979F-AB6D0DFA3898}|HomeWorkMvc\\BlogApp.csproj|c:\\users\\brk_y\\source\\repos\\homeworkmvc\\homeworkmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A3CF360-8E0E-48DD-979F-AB6D0DFA3898}|HomeWorkMvc\\BlogApp.csproj|solutionrelative:homeworkmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3CF360-8E0E-48DD-979F-AB6D0DFA3898}|HomeWorkMvc\\BlogApp.csproj|c:\\users\\brk_y\\source\\repos\\homeworkmvc\\homeworkmvc\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3CF360-8E0E-48DD-979F-AB6D0DFA3898}|HomeWorkMvc\\BlogApp.csproj|solutionrelative:homeworkmvc\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3CF360-8E0E-48DD-979F-AB6D0DFA3898}|HomeWorkMvc\\BlogApp.csproj|c:\\users\\brk_y\\source\\repos\\homeworkmvc\\homeworkmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3CF360-8E0E-48DD-979F-AB6D0DFA3898}|HomeWorkMvc\\BlogApp.csproj|solutionrelative:homeworkmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3CF360-8E0E-48DD-979F-AB6D0DFA3898}|HomeWorkMvc\\BlogApp.csproj|c:\\users\\brk_y\\source\\repos\\homeworkmvc\\homeworkmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A3CF360-8E0E-48DD-979F-AB6D0DFA3898}|HomeWorkMvc\\BlogApp.csproj|solutionrelative:homeworkmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\brk_y\\source\\repos\\HomeWorkMvc\\HomeWorkMvc\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "HomeWorkMvc\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\brk_y\\source\\repos\\HomeWorkMvc\\HomeWorkMvc\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "HomeWorkMvc\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:53:01.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\brk_y\\source\\repos\\HomeWorkMvc\\HomeWorkMvc\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HomeWorkMvc\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\brk_y\\source\\repos\\HomeWorkMvc\\HomeWorkMvc\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "HomeWorkMvc\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:50:21.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\brk_y\\source\\repos\\HomeWorkMvc\\HomeWorkMvc\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeWorkMvc\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\brk_y\\source\\repos\\HomeWorkMvc\\HomeWorkMvc\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "HomeWorkMvc\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:50:08.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\brk_y\\source\\repos\\HomeWorkMvc\\HomeWorkMvc\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "HomeWorkMvc\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\brk_y\\source\\repos\\HomeWorkMvc\\HomeWorkMvc\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "HomeWorkMvc\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:45:58.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\brk_y\\source\\repos\\HomeWorkMvc\\HomeWorkMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HomeWorkMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\brk_y\\source\\repos\\HomeWorkMvc\\HomeWorkMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HomeWorkMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:32:33.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\brk_y\\source\\repos\\HomeWorkMvc\\HomeWorkMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HomeWorkMvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\brk_y\\source\\repos\\HomeWorkMvc\\HomeWorkMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HomeWorkMvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:32:26.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

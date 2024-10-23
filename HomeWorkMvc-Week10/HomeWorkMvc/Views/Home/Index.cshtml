@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="carouselExampleFade" class="carousel slide carousel-fade">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="~/Image/moto1.jpg" width="500px" height="600px" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+            <img src="~/Image/moto2.jpg" width="500px" height="600px" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+            <img src="~/Image/moto3.jpg" width="400px" height="500px" class="d-block w-100" alt="...">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+    <div>
+
+</div>
+
+<br><br>
+
+<p>ViewBag: Dinamik özellikleri kullanarak veri taşımak için kullanılır. View'da otomatik olarak bir nesne olarak erişilebilir.
+
+ViewData: Sözlük yapısında veri taşır. Key-value çiftleri ile veri taşımak için kullanılır ve View'da manuel olarak tür dönüşümü gerektirir.
+
+TempData: Geçici veri taşımak için kullanılır</p>
+
+@section Scripts {
+
+    <script>const carousel = new bootstrap.Carousel('#carouselExampleFade')</script>
+}
