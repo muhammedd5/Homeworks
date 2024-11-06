@@ -1,0 +1,11 @@
+using Microsoft.AspNetCore.Mvc;
+
+public class ServicesViewComponent : ViewComponent
+{
+    public IViewComponentResult Invoke()
+    {
+        var services = new List<string> { "Service 1", "Service 2", "Service 3" };
+
+        return View(services);
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "week12-homeworks/1.0.0": {
+        "runtime": {
+          "week12-homeworks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "week12-homeworks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
