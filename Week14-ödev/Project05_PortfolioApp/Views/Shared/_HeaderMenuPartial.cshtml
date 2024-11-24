@@ -1,0 +1,11 @@
+<li><a href="/" class="@(Model.ActivePage=="Ana Sayfa" ? "active" : "")">Ana Sayfa</a></li>
+<li><a class="@(Model.ActivePage=="Hakkımda" ? "active" : "")" asp-controller="Home" asp-action="About">Hakkımda</a>
+</li>
+<li><a class="@(Model.ActivePage=="Hizmetler" ? "active" : "")" asp-controller="Home"
+                asp-action="Services">Hizmetler</a></li>
+<li><a class="@(Model.ActivePage=="Projeler" ? "active" : "")" asp-controller="Home" asp-action="Portfolio">Projeler</a>
+</li>
+<li><a class="@(Model.ActivePage=="İletişim" ? "active" : "")" asp-controller="Home" asp-action="Contact">İletişim</a>
+</li>
+<li><a asp-area="Admin" asp-controller="Home" asp-action="Index">Admin</a>
+</li>

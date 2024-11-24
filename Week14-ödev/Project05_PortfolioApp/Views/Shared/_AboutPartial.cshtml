@@ -1,0 +1,28 @@
+﻿@model AppSetting
+<!-- About Section -->
+<section id="about" class="about section">
+
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <h2>Hakkımda</h2>
+    </div><!-- End Section Title -->
+
+    <div class="container">
+
+        <div class="row gy-4">
+
+            <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
+                <p>
+                    @Html.Raw(Model.AboutText)
+                </p>
+            </div>
+
+            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+                <img src="@Model.AboutImageUrl" class="img-fluid animated" alt="">
+            </div>
+
+        </div>
+
+    </div>
+
+</section><!-- /About Section -->

@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Cemal Kodyazar Portfolio Sitesi Yönetim Paneli</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+    @await Html.PartialAsync("_StylesPartial")
+    @RenderSection("StylesPartial", false)
+</head>
+
+<body>
+    <div class="container-xxl position-relative bg-white d-flex p-0">
+        @await Html.PartialAsync("_SpinnerPartial")
+        @await Html.PartialAsync("_SidebarPartial")
+        <!-- Content Start -->
+        <div class="content">
+            @await Html.PartialAsync("_NavbarPartial")
+            @RenderBody()
+            @await Html.PartialAsync("_FooterPartial")
+        </div>
+        <!-- Content End -->
+        @await Html.PartialAsync("_BackToTopPartial")
+    </div>
+    @await Html.PartialAsync("_ScriptsPartial")
+    @RenderSection("ScriptsSection", false)
+</body>
+
+</html>

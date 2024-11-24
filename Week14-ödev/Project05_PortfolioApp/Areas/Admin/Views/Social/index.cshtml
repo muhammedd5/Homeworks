@@ -1,0 +1,105 @@
+﻿@model IEnumerable<Social>
+@{
+    ViewData["Title"] = "Sosyal Medya";
+}
+
+<div class="container-fluid pt-4 px-4">
+    <div class="bg-light rounded p-4">
+        <div class="d-flex justify-content-between align-items-center">
+            <h6 class="display-6 text-primary fs-3">Sosyal Medya</h6>
+            <a asp-area="Admin" asp-controller="Social" asp-action="Create" class="btn btn-success btn-sm">Sosyal Medya Ekle</a>
+        </div>
+        <table id="project-table" class="table table-striped">
+            <thead>
+                <tr>
+                    <th width="50" scope="col">Id</th>
+                    <th scope="col">Sosyal Medya Hesaplarım</th>
+                    <th width="50" scope="col">URL</th>
+                    <th width="50" scope="col">Aktif</th>
+                    <th width="120" scope="col">İşlemler</th>
+                </tr>
+            </thead>
+            <tbody id="project-table-body">
+                @foreach (var s in Model)
+                {
+                    <tr>
+                        <th scope="row">@s.Id</th>
+                        <td>@s.Name</td>
+                        <td>@s.URL</td>
+                        <td>
+
+
+                              
+
+
+                            <div class="form-check form-switch">
+                                @* <input asp-for="@s.IsActive" class="form-check-input" type="checkbox" role="switch"
+                                    id="isActive-@s.Id" onchange="changeIsActive(`@s.Id`)"> *@
+
+                              <input asp-for="@s.IsActive" class="form-check-input" type="checkbox" role="switch"
+    id="isActive-@s.Id" onchange="changeIsActive(`@s.Id`)">
+                                <label class="form-check-label" for="isActive-@s.Id"></label>
+                            </div>
+                        </td>
+                        <td>
+                            <a asp-area="Admin" asp-controller="Social" asp-action="Edit" asp-route-id="@s.Id"
+                                class="btn btn-warning btn-sm">Düzelt</a>
+
+                            @* <!-- Button trigger modal --> *@
+                            <button type="button" class="btn btn-danger btn-sm" data-bs-toggle="modal"
+                                data-bs-target="#modalDelete-@s.Id">
+                                Sil
+                            </button>
+
+                            @* <!-- Modal --> *@
+                            <div class="modal fade" id="modalDelete-@s.Id" data-bs-backdrop="static"
+                                data-bs-keyboard="false" tabindex="-1" aria-labelledby="modalDeleteLabel"
+                                aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h1 class="modal-title fs-5 text-danger" id="modalDeleteLabel">SİLME!</h1>
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                                aria-label="Close"></button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <span class="text-danger">@s.Name</span> adlı sosyal medya hesabın silinecektir!
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary"
+                                                data-bs-dismiss="modal">Vazgeç</button>
+                                            <a asp-area="Admin" asp-controller="Social" asp-action="Delete"
+                                                asp-route-id="@s.Id" class="btn btn-danger">Sil</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>
+
+ @section ScriptsSection {
+  <script>
+        function changeIsActive(socialId) {
+            $.ajax({
+                url: `/admin/social/updateisactive/${socialId}`,
+                type: 'GET',
+                success: function (response) {
+                    console.log(response == 0 ? "İşlem başarısız" : "İşlem başarılı");
+                },
+                error: function (error) {
+                    console.log(error);
+                }
+            });
+        }
+    </script> 
+
+
+
+}

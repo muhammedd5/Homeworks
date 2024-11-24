@@ -1,0 +1,38 @@
+﻿<!-- Skills Section -->
+<section id="skills" class="skills section">
+
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row">
+
+            <div class="col-lg-6 d-flex align-items-center">
+                <img src="@Model.AppSetting.SkillsImageUrl" class="img-fluid" alt="">
+            </div>
+
+            <div class="col-lg-6 pt-4 pt-lg-0 content">
+
+                <h3>Becerilerim</h3>
+                <p class="fst-italic">
+                    Gerek eğitimim sırasında, gerek sonrasındaki çalışmalarım esnasında edindiğim beceriler şu
+                    şekildedir:
+                </p>
+
+                <div class="skills-content skills-animation">
+                    @foreach (var skill in Model.Skills)
+                    {
+                        <div class="progress">
+                            <span class="skill"><span>@skill.Name</span> <i class="val">@(skill.Rate + "%")</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="@skill.Rate" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                    }
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+</section><!-- /Skills Section -->

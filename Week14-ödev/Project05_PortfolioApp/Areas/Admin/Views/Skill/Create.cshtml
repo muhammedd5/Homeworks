@@ -1,0 +1,40 @@
+﻿@model AddSkillViewModel
+@{
+    ViewData["Title"] = "Yeni Beceri";
+}
+
+<div class="container-fluid pt-4 px-4">
+    <div class="bg-light rounded p-4">
+        <h6 class="display-6 fs-3 text-primary mb-4">Yeni Beceri</h6>
+        <form asp-area="Admin" asp-controller="Skill" asp-action="Create" method="post">
+            <div class="row">
+                <div class="col-12">
+                    <div class="mb-3 col-3">
+                        <label asp-for="Name" class="form-label"></label>
+                        <input asp-for="Name" class="form-control">
+                        <span class="text-danger" asp-validation-for="Name"></span>
+                    </div>
+                    <div class="mb-3 col-3">
+                        <div>
+                        <label asp-for="Rate" class="form-label"></label>
+                        <input asp-for="Rate" class="form-control">
+                        <span class="text-danger" asp-validation-for="Rate"></span>
+                        </div>
+            
+
+                    </div>
+                  
+                    <div class="mb-3 form-check">
+                        <input asp-for="IsActive" class="form-check-input">
+                        <label asp-for="IsActive" class="form-check-label"></label>
+                    </div>
+                </div>
+            </div>
+            <div class="d-flex justify-content-end">
+                <button type="submit" class="btn btn-primary">Kaydet</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+

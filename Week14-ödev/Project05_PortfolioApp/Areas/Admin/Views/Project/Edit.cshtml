@@ -1,0 +1,89 @@
+@model EditProjectViewModel
+@{
+    ViewData["Title"] = "Proje Güncelleme";
+}
+
+<div class="container-fluid pt-4 px-4">
+    <div class="bg-light rounded p-4">
+        <h6 class="display-6 fs-3 text-primary mb-4">Proje Güncelleme</h6>
+        <form asp-area="Admin" asp-controller="Project" asp-action="Edit" method="post" enctype="multipart/form-data">
+            <input type="hidden" asp-for="ImageUrl">
+            <div class="row">
+                <div class="col-sm-12 col-xl-6">
+                    <div class="mb-3">
+                        <label asp-for="Name" class="form-label"></label>
+                        <input asp-for="Name" class="form-control">
+                        <span class="text-danger" asp-validation-for="Name"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Github Url</label>
+                        <input asp-for="GithubUrl" class="form-control">
+                        <span class="text-danger" asp-validation-for="GithubUrl"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Proje Linki</label>
+                        <input asp-for="ProjectUrl" class="form-control">
+                    </div>
+                    <div class="row">
+                        <div class="col-xl-6 col-sm-12">
+                            <div class="mb-3 form-check">
+                                <input asp-for="IsActive" class="form-check-input">
+                                <label class="form-check-label">Aktif</label>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-sm-12">
+                            <div class="mb-3">
+                                <label class="form-label">Yıl</label>
+                                <input asp-for="ProjectYear" class="form-control">
+                                <span class="text-danger" asp-validation-for="ProjectYear"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-sm-12 col-xl-6">
+                    <label class="form-label">Kategori</label>
+                    <select asp-items="@Model.CategoryList" asp-for="CategoryId" class="form-select mb-3">
+
+                    </select>
+                    <div class="mb-3">
+                        <div class="input-group">
+                            <span class="input-group-text">Açıklama</span>
+                            <textarea asp-for="Description" rows="" class="form-control"></textarea>
+                        </div>
+                        <span class="text-danger" asp-validation-for="Description"></span>
+                    </div>
+
+
+
+                    <div class="mb-3">
+                        <label class="form-label">Resim Yükle</label>
+                        <input class="form-control" type="file" name="Image" id="image"
+                            accept="image/png,image/jpg,image/jpeg">
+                        <div class="mt-2">
+                            <img src="@Model.ImageUrl" id="image-preview" width="100" height="100" />
+                        </div>
+                        <span class="text-danger">@ViewBag.ImageError</span>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="d-flex justify-content-end">
+                <button type="submit" class="btn btn-primary">Değişiklikleri Kaydet</button>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+@section ScriptsSection {
+    <script>
+        $("#image").on("change", function (e) {
+            const selectedFiles = e.target.files;
+            $("#image-preview").removeClass("d-none");
+            $("#image-preview").attr("src", window.URL.createObjectURL(selectedFiles[0]));
+        })
+    </script>
+}

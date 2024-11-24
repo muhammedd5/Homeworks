@@ -1,0 +1,53 @@
+@model AddServiceViewModel
+@{
+    ViewData["Title"] = "Yeni Hizmet";
+}
+
+<div class="container-fluid pt-4 px-4">
+    <div class="bg-light rounded p-4">
+        <h6 class="display-6 fs-3 text-primary mb-4">Yeni Hizmet</h6>
+        <form asp-area="Admin" asp-controller="Service" asp-action="Create" method="post">
+            <div class="row">
+                <div class="col-12">
+                    <div class="mb-3">
+                        <label asp-for="Title" class="form-label"></label>
+                        <input asp-for="Title" class="form-control">
+                        <span class="text-danger" asp-validation-for="Title"></span>
+                    </div>
+                    <div class="mb-3 d-flex justify-content-start gap-3">
+                        <div>
+                            <label asp-for="Icon" class="form-label"></label>
+                            <select asp-items="@Model.IconList" asp-for="Icon" class="form-select mb-2">
+                            </select>
+                        </div>
+                        <div class="d-flex align-items-end">
+                            <div class="icon pt-4"><i id="bi-icon-i" class="bi fs-1 text-primary icon"></i></div>
+                        </div>
+
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Description" class="form-label"></label>
+                        <textarea asp-for="Description" class="form-control"></textarea>
+                        <span class="text-danger" asp-validation-for="Description"></span>
+                    </div>
+                    <div class="mb-3 form-check">
+                        <input asp-for="IsActive" class="form-check-input">
+                        <label asp-for="IsActive" class="form-check-label"></label>
+                    </div>
+                </div>
+            </div>
+            <div class="d-flex justify-content-end">
+                <button type="submit" class="btn btn-primary">Kaydet</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section ScriptsSection {
+    <script>
+        $("#bi-icon-i").attr("class", `bi fs-1 text-primary ${$("#Icon").val()} icon`);
+        $("#Icon").on("change", function (e) {
+            $("#bi-icon-i").attr("class", `bi fs-1 text-primary ${e.target.value} icon`);
+        });
+    </script>
+}

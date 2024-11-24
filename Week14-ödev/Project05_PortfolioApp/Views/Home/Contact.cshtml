@@ -1,0 +1,12 @@
+@model HomePageModel
+@{
+    ViewData["Title"] = "İletişim";
+    ContactModel contactModel = new()
+            {
+                AppSetting = Model.AppSetting
+            };
+}
+
+<div class="mt-5">
+    @await Html.PartialAsync("_ContactPartial", contactModel)
+</div>

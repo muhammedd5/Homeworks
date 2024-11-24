@@ -1,0 +1,601 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/admin/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/css/style.css",
+      "PackagePath": "staticwebassets/admin/css/style.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/img/testimonial-1.jpg",
+      "PackagePath": "staticwebassets/admin/img/testimonial-1.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/img/testimonial-2.jpg",
+      "PackagePath": "staticwebassets/admin/img/testimonial-2.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/img/user.jpg",
+      "PackagePath": "staticwebassets/admin/img/user.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/js/main.js",
+      "PackagePath": "staticwebassets/admin/js/main.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/chart/chart.min.js",
+      "PackagePath": "staticwebassets/admin/lib/chart/chart.min.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/easing/easing.js",
+      "PackagePath": "staticwebassets/admin/lib/easing/easing.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/easing/easing.min.js",
+      "PackagePath": "staticwebassets/admin/lib/easing/easing.min.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/owlcarousel/LICENSE",
+      "PackagePath": "staticwebassets/admin/lib/owlcarousel"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/owlcarousel/assets/ajax-loader.gif",
+      "PackagePath": "staticwebassets/admin/lib/owlcarousel/assets/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/owlcarousel/assets/owl.carousel.css",
+      "PackagePath": "staticwebassets/admin/lib/owlcarousel/assets/owl.carousel.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/owlcarousel/assets/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/admin/lib/owlcarousel/assets/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/owlcarousel/assets/owl.theme.default.css",
+      "PackagePath": "staticwebassets/admin/lib/owlcarousel/assets/owl.theme.default.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/admin/lib/owlcarousel/assets/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/owlcarousel/assets/owl.theme.green.css",
+      "PackagePath": "staticwebassets/admin/lib/owlcarousel/assets/owl.theme.green.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/owlcarousel/assets/owl.theme.green.min.css",
+      "PackagePath": "staticwebassets/admin/lib/owlcarousel/assets/owl.theme.green.min.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/owlcarousel/assets/owl.video.play.png",
+      "PackagePath": "staticwebassets/admin/lib/owlcarousel/assets/owl.video.play.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/owlcarousel/owl.carousel.js",
+      "PackagePath": "staticwebassets/admin/lib/owlcarousel/owl.carousel.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/owlcarousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/admin/lib/owlcarousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets/admin/lib/tempusdominus/css/tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets/admin/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/tempusdominus/js/moment-timezone.min.js",
+      "PackagePath": "staticwebassets/admin/lib/tempusdominus/js/moment-timezone.min.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/tempusdominus/js/moment.min.js",
+      "PackagePath": "staticwebassets/admin/lib/tempusdominus/js/moment.min.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets/admin/lib/tempusdominus/js/tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets/admin/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/waypoints/links.php",
+      "PackagePath": "staticwebassets/admin/lib/waypoints/links.php"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/admin/lib/waypoints/waypoints.min.js",
+      "PackagePath": "staticwebassets/admin/lib/waypoints/waypoints.min.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/css/main.css",
+      "PackagePath": "staticwebassets/ui/css/main.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/ui/img/apple-touch-icon.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/clients/client-1.png",
+      "PackagePath": "staticwebassets/ui/img/clients/client-1.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/clients/client-2.png",
+      "PackagePath": "staticwebassets/ui/img/clients/client-2.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/clients/client-3.png",
+      "PackagePath": "staticwebassets/ui/img/clients/client-3.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/clients/client-4.png",
+      "PackagePath": "staticwebassets/ui/img/clients/client-4.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/clients/client-5.png",
+      "PackagePath": "staticwebassets/ui/img/clients/client-5.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/clients/client-6.png",
+      "PackagePath": "staticwebassets/ui/img/clients/client-6.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/clients/client-7.png",
+      "PackagePath": "staticwebassets/ui/img/clients/client-7.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/clients/client-8.png",
+      "PackagePath": "staticwebassets/ui/img/clients/client-8.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/cta-bg.jpg",
+      "PackagePath": "staticwebassets/ui/img/cta-bg.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/favicon.png",
+      "PackagePath": "staticwebassets/ui/img/favicon.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/hero-img.png",
+      "PackagePath": "staticwebassets/ui/img/hero-img.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/logo.png",
+      "PackagePath": "staticwebassets/ui/img/logo.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/masonry-portfolio/masonry-portfolio-1.jpg",
+      "PackagePath": "staticwebassets/ui/img/masonry-portfolio/masonry-portfolio-1.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/masonry-portfolio/masonry-portfolio-2.jpg",
+      "PackagePath": "staticwebassets/ui/img/masonry-portfolio/masonry-portfolio-2.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/masonry-portfolio/masonry-portfolio-3.jpg",
+      "PackagePath": "staticwebassets/ui/img/masonry-portfolio/masonry-portfolio-3.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/masonry-portfolio/masonry-portfolio-4.jpg",
+      "PackagePath": "staticwebassets/ui/img/masonry-portfolio/masonry-portfolio-4.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/masonry-portfolio/masonry-portfolio-5.jpg",
+      "PackagePath": "staticwebassets/ui/img/masonry-portfolio/masonry-portfolio-5.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/masonry-portfolio/masonry-portfolio-6.jpg",
+      "PackagePath": "staticwebassets/ui/img/masonry-portfolio/masonry-portfolio-6.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/masonry-portfolio/masonry-portfolio-7.jpg",
+      "PackagePath": "staticwebassets/ui/img/masonry-portfolio/masonry-portfolio-7.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/masonry-portfolio/masonry-portfolio-8.jpg",
+      "PackagePath": "staticwebassets/ui/img/masonry-portfolio/masonry-portfolio-8.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/masonry-portfolio/masonry-portfolio-9.jpg",
+      "PackagePath": "staticwebassets/ui/img/masonry-portfolio/masonry-portfolio-9.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/projects/03e0e203-38f9-4e3f-8a53-af16d07e3cb2.png",
+      "PackagePath": "staticwebassets/ui/img/projects/03e0e203-38f9-4e3f-8a53-af16d07e3cb2.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/projects/16d2670c-3aef-4f25-b088-8f1be3fe0579.png",
+      "PackagePath": "staticwebassets/ui/img/projects/16d2670c-3aef-4f25-b088-8f1be3fe0579.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/projects/30f3ccf7-5504-4689-8e77-e23e83144765.png",
+      "PackagePath": "staticwebassets/ui/img/projects/30f3ccf7-5504-4689-8e77-e23e83144765.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/projects/3bc19d02-cdfe-4420-a8e6-cb2e3a0a853a.png",
+      "PackagePath": "staticwebassets/ui/img/projects/3bc19d02-cdfe-4420-a8e6-cb2e3a0a853a.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/projects/41373734-db32-4cf4-9172-6b91d50afd04.png",
+      "PackagePath": "staticwebassets/ui/img/projects/41373734-db32-4cf4-9172-6b91d50afd04.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/projects/7fad4e1d-a823-4721-b22e-a690303233ae.png",
+      "PackagePath": "staticwebassets/ui/img/projects/7fad4e1d-a823-4721-b22e-a690303233ae.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/projects/9ea9fd32-15e6-4320-bcd4-8f64101619f6.png",
+      "PackagePath": "staticwebassets/ui/img/projects/9ea9fd32-15e6-4320-bcd4-8f64101619f6.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/projects/ac95a49c-ce45-48f4-8537-f90303257fc6.png",
+      "PackagePath": "staticwebassets/ui/img/projects/ac95a49c-ce45-48f4-8537-f90303257fc6.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/projects/ed1439df-1b2b-471e-9a2f-eeca4b199c90.png",
+      "PackagePath": "staticwebassets/ui/img/projects/ed1439df-1b2b-471e-9a2f-eeca4b199c90.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/projects/project1.jpg",
+      "PackagePath": "staticwebassets/ui/img/projects/project1.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/projects/project2.jpg",
+      "PackagePath": "staticwebassets/ui/img/projects/project2.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/projects/project3.jpg",
+      "PackagePath": "staticwebassets/ui/img/projects/project3.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/projects/project4.jpg",
+      "PackagePath": "staticwebassets/ui/img/projects/project4.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/services.jpg",
+      "PackagePath": "staticwebassets/ui/img/services.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/skills.png",
+      "PackagePath": "staticwebassets/ui/img/skills.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/team/team-1.jpg",
+      "PackagePath": "staticwebassets/ui/img/team/team-1.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/team/team-2.jpg",
+      "PackagePath": "staticwebassets/ui/img/team/team-2.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/team/team-3.jpg",
+      "PackagePath": "staticwebassets/ui/img/team/team-3.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/team/team-4.jpg",
+      "PackagePath": "staticwebassets/ui/img/team/team-4.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/testimonials/testimonials-1.jpg",
+      "PackagePath": "staticwebassets/ui/img/testimonials/testimonials-1.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/testimonials/testimonials-2.jpg",
+      "PackagePath": "staticwebassets/ui/img/testimonials/testimonials-2.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/testimonials/testimonials-3.jpg",
+      "PackagePath": "staticwebassets/ui/img/testimonials/testimonials-3.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/testimonials/testimonials-4.jpg",
+      "PackagePath": "staticwebassets/ui/img/testimonials/testimonials-4.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/testimonials/testimonials-5.jpg",
+      "PackagePath": "staticwebassets/ui/img/testimonials/testimonials-5.jpg"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/img/why-us.png",
+      "PackagePath": "staticwebassets/ui/img/why-us.png"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/js/main.js",
+      "PackagePath": "staticwebassets/ui/js/main.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/aos/aos.cjs.js",
+      "PackagePath": "staticwebassets/ui/vendor/aos/aos.cjs.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/aos/aos.css",
+      "PackagePath": "staticwebassets/ui/vendor/aos/aos.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/aos/aos.esm.js",
+      "PackagePath": "staticwebassets/ui/vendor/aos/aos.esm.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/aos/aos.js",
+      "PackagePath": "staticwebassets/ui/vendor/aos/aos.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/aos/aos.js.map",
+      "PackagePath": "staticwebassets/ui/vendor/aos/aos.js.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap-icons/bootstrap-icons.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap-icons/bootstrap-icons.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap-icons/bootstrap-icons.json",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap-icons/bootstrap-icons.json"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap-icons/bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap-icons/bootstrap-icons.min.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap-icons/bootstrap-icons.scss",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap-icons/bootstrap-icons.scss"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap-icons/fonts/bootstrap-icons.woff",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap-icons/fonts/bootstrap-icons.woff"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/css/prb.txt",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/css/prb.txt"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/bootstrap/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/ui/vendor/bootstrap/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/glightbox/css/glightbox.css",
+      "PackagePath": "staticwebassets/ui/vendor/glightbox/css/glightbox.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/glightbox/css/glightbox.min.css",
+      "PackagePath": "staticwebassets/ui/vendor/glightbox/css/glightbox.min.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/glightbox/js/glightbox.js",
+      "PackagePath": "staticwebassets/ui/vendor/glightbox/js/glightbox.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/glightbox/js/glightbox.min.js",
+      "PackagePath": "staticwebassets/ui/vendor/glightbox/js/glightbox.min.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/imagesloaded/imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets/ui/vendor/imagesloaded/imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/isotope-layout/isotope.pkgd.js",
+      "PackagePath": "staticwebassets/ui/vendor/isotope-layout/isotope.pkgd.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/isotope-layout/isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets/ui/vendor/isotope-layout/isotope.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/php-email-form/validate.js",
+      "PackagePath": "staticwebassets/ui/vendor/php-email-form/validate.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/swiper/swiper-bundle.min.css",
+      "PackagePath": "staticwebassets/ui/vendor/swiper/swiper-bundle.min.css"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/swiper/swiper-bundle.min.js",
+      "PackagePath": "staticwebassets/ui/vendor/swiper/swiper-bundle.min.js"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/swiper/swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets/ui/vendor/swiper/swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/muhammed/Documents/GitHub/Homeworks/Week14-ödev/Project05_PortfolioApp/wwwroot/ui/vendor/waypoints/noframework.waypoints.js",
+      "PackagePath": "staticwebassets/ui/vendor/waypoints/noframework.waypoints.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Project05_PortfolioApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Project05_PortfolioApp.props",
+      "PackagePath": "build\\Project05_PortfolioApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Project05_PortfolioApp.props",
+      "PackagePath": "buildMultiTargeting\\Project05_PortfolioApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Project05_PortfolioApp.props",
+      "PackagePath": "buildTransitive\\Project05_PortfolioApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,8 @@
+@model HomePageModel
+@{
+    ViewData["Title"] = "Hakkımda";
+}
+
+<div class="mt-5">
+    @await Html.PartialAsync("_AboutPartial", Model.AppSetting)
+</div>
