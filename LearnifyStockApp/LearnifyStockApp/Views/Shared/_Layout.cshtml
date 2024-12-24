@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <partial name="_HeadPartial" />
+  @await RenderSectionAsync("HeadBottomSection", false)
+</head>
+
+<body>
+  <div class="wrapper">
+    <partial name="_SidebarPartial" />
+    <div class="main-panel">
+      <partial name="_MainHeaderPartial" />
+      <div class="container">
+        <div class="page-inner">
+          @RenderBody()
+        </div>
+      </div>
+      <partial name="_FooterPartial" />
+    </div>
+  </div>
+  <partial name="_JsPartial" />
+  @await RenderSectionAsync("BodyBottomSection", false)
+  @await Component.InvokeAsync("Notyf");
+</body>
+
+</html>
