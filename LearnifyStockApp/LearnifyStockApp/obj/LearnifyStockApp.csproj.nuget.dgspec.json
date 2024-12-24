@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/LearnifyStockApp.csproj": {}
+    "/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/LearnifyStockApp.csproj": {}
   },
   "projects": {
-    "/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/LearnifyStockApp.csproj": {
+    "/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/LearnifyStockApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/LearnifyStockApp.csproj",
+        "projectUniqueName": "/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/LearnifyStockApp.csproj",
         "projectName": "LearnifyStockApp",
-        "projectPath": "/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/LearnifyStockApp.csproj",
+        "projectPath": "/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/LearnifyStockApp.csproj",
         "packagesPath": "/Users/muhammed/.nuget/packages/",
-        "outputPath": "/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/obj/",
+        "outputPath": "/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/muhammed/.nuget/NuGet/NuGet.Config"

@@ -9,147 +9,147 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LearnifyStockApp
 build_property.RootNamespace = LearnifyStockApp
-build_property.ProjectDir = /Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/
+build_property.ProjectDir = /Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp
+build_property.MSBuildProjectDirectory = /Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Category/Create.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Category/Index.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Category/Update.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Category/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Customer/Create.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Customer/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Customer/Index.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Customer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Customer/Update.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Customer/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Home/Index.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Product/Create.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Product/Index.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Product/Update.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Product/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9VcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_CategoryHardDeletePartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_CategoryHardDeletePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19DYXRlZ29yeUhhcmREZWxldGVQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_CategorySoftDeletePartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_CategorySoftDeletePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19DYXRlZ29yeVNvZnREZWxldGVQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_CustomerHardDeletePartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_CustomerHardDeletePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19DdXN0b21lckhhcmREZWxldGVQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_CustomerSoftDeletePartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_CustomerSoftDeletePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19DdXN0b21lclNvZnREZWxldGVQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_DataTablesPartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_DataTablesPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19EYXRhVGFibGVzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_FooterPartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_FooterPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_HeadCssPartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_HeadCssPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19IZWFkQ3NzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_HeadFontsAndIconsPartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_HeadFontsAndIconsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19IZWFkRm9udHNBbmRJY29uc1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_HeadPartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_HeadPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19IZWFkUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_JsPartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_JsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Kc1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_Layout.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_MainHeaderPartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_MainHeaderPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19NYWluSGVhZGVyUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_ProductHardDeletePartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_ProductHardDeletePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Qcm9kdWN0SGFyZERlbGV0ZVBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_ProductSoftDeletePartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_ProductSoftDeletePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Qcm9kdWN0U29mdERlbGV0ZVBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_SidebarMenuPartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_SidebarMenuPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TaWRlYmFyTWVudVBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_SidebarPartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_SidebarPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TaWRlYmFyUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_SupplierHardDeletePartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_SupplierHardDeletePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TdXBwbGllckhhcmREZWxldGVQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_SupplierSoftDeletePartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_SupplierSoftDeletePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TdXBwbGllclNvZnREZWxldGVQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Supplier/Create.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Supplier/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VwcGxpZXIvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Supplier/Index.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Supplier/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VwcGxpZXIvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/Supplier/Update.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/Supplier/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VwcGxpZXIvVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/_ViewImports.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/muhammed/Documents/GitHub/10-BE-TEMEL-ON/02-Tekrar/LearnifyStockApp/LearnifyStockApp/Views/_ViewStart.cshtml]
+[/Users/muhammed/Documents/GitHub/Homeworks/LearnifyStockApp/LearnifyStockApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
